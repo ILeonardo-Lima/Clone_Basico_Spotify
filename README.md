@@ -1,8 +1,7 @@
 # Clone Básico do Spotify (HTML + CSS + JavaScript)
 
-Um clone simples e funcional da interface do Spotify, feito apenas com **HTML, CSS e JavaScript puro** (sem frameworks). Perfeito para estudos, portfólio ou como base para projetos mais avançados.
+Um clone simples e funcional de uma interface inical do Spotify, feito apenas com **HTML, CSS e JavaScript puro** (sem frameworks). 
 
-![Preview do projeto]
 
 <a href="https://ileonardo-lima.github.io/Clone_Basico_Spotify/">Clique para acessar!</a>
 
